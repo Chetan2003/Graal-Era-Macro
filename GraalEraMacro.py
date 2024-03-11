@@ -20,7 +20,7 @@ def StartProgram():
         if(keyboard.is_pressed('q')):
             break
         else:
-            StartMining(952,919)
+            StartMining(952,919) #Update the X and Y coordinated based on your requirements
             
             StartMining(890,852)
 StartProgram()
